@@ -3,6 +3,7 @@ layout: default
 title: KingBase V8R6
 nav_order: 1
 parent: Database
+grand_parent: ZZY
 ---
 
 # KingBase V8R6 SQL

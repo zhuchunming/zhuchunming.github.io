@@ -3,6 +3,7 @@ layout: default
 title: Shell Linux
 nav_order: 2
 parent: Linux
+grand_parent: ZZY
 ---
 
 

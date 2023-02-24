@@ -3,6 +3,7 @@ layout: default
 title: KingBase V8R6 INSTALL
 nav_order: 3
 parent: Database
+grand_parent: ZZY
 ---
 
 # KingBase

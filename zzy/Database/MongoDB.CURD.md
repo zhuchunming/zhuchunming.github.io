@@ -3,6 +3,7 @@ layout: default
 title: Mongodb-CURD
 nav_order: 5
 parent: Database
+grand_parent: ZZY
 ---
 
 # Mongodb-CURD

@@ -3,6 +3,7 @@ layout: default
 title: SQL-FUNCTION
 nav_order: 100
 parent: Database
+grand_parent: ZZY
 ---
 
 # SQL-FUNCTION

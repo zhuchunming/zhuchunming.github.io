@@ -3,6 +3,7 @@ layout: default
 title: MySQL
 nav_order: 1
 parent: Database
+grand_parent: ZZY
 ---
 
 # MySQL

@@ -3,6 +3,7 @@ layout: default
 title: Nginx Linux Install
 nav_order: 1
 parent: Linux
+grand_parent: ZZY
 ---
 
 # Nginx Linux Install

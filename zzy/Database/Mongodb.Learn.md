@@ -3,6 +3,7 @@ layout: default
 title: Mongodb Learn
 nav_order: 6
 parent: Database
+grand_parent: ZZY
 ---
 
 # Mongodb Learn

@@ -3,6 +3,7 @@ layout: default
 title: Redis Linux Install
 nav_order: 2
 parent: Linux
+grand_parent: ZZY
 ---
 
 # Redis Linux Install

@@ -3,6 +3,7 @@ layout: default
 title: Internet
 nav_order: 2
 parent: Tools
+grand_parent: ZZY
 ---
 
 # Internet

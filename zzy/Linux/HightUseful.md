@@ -2,6 +2,7 @@
 layout: default
 title: Linux Command
 parent: Linux
+grand_parent: ZZY
 nav_order: 11
 ---
 

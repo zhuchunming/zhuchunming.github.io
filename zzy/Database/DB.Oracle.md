@@ -3,6 +3,7 @@ layout: default
 title: ORACLE
 nav_order: 2
 parent: Database
+grand_parent: ZZY
 ---
 
 # ORACLE

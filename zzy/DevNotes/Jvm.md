@@ -2,6 +2,7 @@
 layout: default
 title: Jvm Params
 parent: DevNotes
+grand_parent: ZZY
 nav_order: 9
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Kubernetes Cluster
-grand_parent: Container
+parent: Container
+grand_parent: ZZY
 nav_order: 10
 ---
 

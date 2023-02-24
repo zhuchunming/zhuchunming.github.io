@@ -2,6 +2,7 @@
 layout: default
 title: IDEA About
 parent: DevNotes
+grand_parent: ZZY
 nav_order: 2
 ---
 

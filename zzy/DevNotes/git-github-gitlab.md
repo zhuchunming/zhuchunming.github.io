@@ -2,6 +2,7 @@
 layout: default
 title: Git & GitHub
 parent: Git
+grand_parent: ZZY
 nav_order: 1
 ---
 

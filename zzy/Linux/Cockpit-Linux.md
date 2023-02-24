@@ -3,6 +3,7 @@ layout: default
 title: Cockpit Linux
 nav_order: 0
 parent: Linux
+grand_parent: ZZY
 ---
 
 

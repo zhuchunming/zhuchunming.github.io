@@ -3,6 +3,7 @@ layout: default
 title: Mongodb INSTALL
 nav_order: 4
 parent: Database
+grand_parent: ZZY
 ---
 
 # Mongodb Install
