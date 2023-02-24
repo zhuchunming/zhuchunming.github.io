@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kubernetes Use
-parent: Container
+grand_parent: Container
 nav_order: 15
 ---
 

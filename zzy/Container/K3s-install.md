@@ -1,7 +1,7 @@
 ---
 layout: default
 title: K3s Cluster
-parent: Container
+grand_parent: Container
 nav_order: 10
 ---
 
