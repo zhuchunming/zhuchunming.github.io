@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: " Note Docs,NoteBook"
+has_children: true
 permalink: /
 ---
 
