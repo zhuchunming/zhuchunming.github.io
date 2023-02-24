@@ -3,7 +3,7 @@ layout: default
 title: Cloud
 nav_order: 2
 has_children: true
-parent: Home
+parent: ZZY
 permalink: docs/Cloud
 ---
 

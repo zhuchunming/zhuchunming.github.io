@@ -3,6 +3,7 @@ layout: default
 title: DevNotes
 nav_order: 5
 has_children: true
+parent: ZZY
 permalink: docs/DevNotes
 ---
 

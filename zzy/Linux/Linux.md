@@ -2,6 +2,7 @@
 layout: default
 title: Linux
 has_children: true
+parent: ZZY
 nav_order: 11
 ---
 
