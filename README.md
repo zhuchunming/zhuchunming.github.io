@@ -1,2 +1,2 @@
 # zhuchunming.github.io
-笔记
+Zz笔记
