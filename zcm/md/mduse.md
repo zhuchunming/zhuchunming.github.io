@@ -1,9 +1,9 @@
 ---
 layout: default
 title: md
-nav_order: 1
-parent: zcm
-grand_parent: md
+nav_order: 2
+parent: md
+grand_parent: zcm
 ---
 
 # Markdown 基础语法指南
