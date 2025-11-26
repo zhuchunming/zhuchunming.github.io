@@ -1,23 +1,11 @@
 ---
 layout: default
-title: Git & GitHub
-parent: ZCM
-nav_order: 1
+title: GitHub
+parent: zcm
+nav_order: 2
 ---
 
-# Git & GitHub
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-Git
------------------------------
+# github
 
 
 ### 生成公私钥
@@ -43,7 +31,6 @@ Github
 ## github使用Token登录
 
 现在github提交代码需要配置token登录。
-2023/2/24生成：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
 
 简要步骤：
 
@@ -64,7 +51,7 @@ Github
 - 选择token有效期时间。可以选择永不过期，但我个人不建议，因为一旦你的token丢失就会不安全，再一个自己忘记token放哪里了，更换机器登录还是要重新生成。
      我是90天一换，既有过期时限，过期了就要逼着自己来折腾。
 
-- 为token赋予权限。如果从命令行操作仓库，至少选中【repo,gist,read:org】。
+- 为token赋予权限。如果从命令行操作仓库，至少选中【repo(控制私有仓库和公共仓库的访问包含了代码的读写操作)、read:user​(读取用户信息)、user:email​ - 读取用户邮箱地址】。
 
 
 6.填写好后点击 Generate Token。
