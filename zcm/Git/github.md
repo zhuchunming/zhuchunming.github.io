@@ -43,7 +43,6 @@ Github
 ## github使用Token登录
 
 现在github提交代码需要配置token登录。
-2025/11/26生成：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
 
 简要步骤：
 
