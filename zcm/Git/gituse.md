@@ -1,8 +1,9 @@
 ---
 layout: default
-title: git
+title: gituse
 nav_order: 1
-parent: zcm
+parent: gituse
+grand_parent: zcm
 permalink: docs/git
 ---
 

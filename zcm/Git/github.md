@@ -1,7 +1,8 @@
 ---
 layout: default
-title: GitHub
-parent: zcm
+title: github
+parent: git
+grand_parent: zcm
 nav_order: 2
 ---
 
