@@ -50,6 +50,14 @@ git config --global core.quotepath off
 -- 查看到设置的全局配置信息
 git config --list
 ```
+### git push 失败
+```
+OpenSSL SSL_read: Connection was reset, errno 10054
+--关闭SSL验证
+git config --global http.sslVerify false
+--push main为分支名
+git push origin main
+```
 
 ### idea集成git
 - ![图片描述](./image/gitexe.png)
