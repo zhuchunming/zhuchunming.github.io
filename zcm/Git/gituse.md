@@ -1,7 +1,7 @@
 ---
 layout: default
 title: gituse
-parent: gituse
+parent: git
 grand_parent: zcm
 nav_order: 2
 ---
