@@ -1,10 +1,9 @@
 ---
 layout: default
 title: gituse
-nav_order: 1
 parent: gituse
 grand_parent: zcm
-permalink: docs/git
+nav_order: 2
 ---
 
 # git
